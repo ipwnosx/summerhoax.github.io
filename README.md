@@ -2,6 +2,10 @@
 The free and opensource project for exposing shit hosts.
 Please avoid them at all costs.
 
+## Project update
+Hi all, I'm planning on bringing back this project. If someone wants to help me out, reach out to markd#0001.
+<3
+
 ## Interested in becoming a Content Creator for our Vault Pages?
 Check out <https://github.com/summerhoax/summerhoax.github.io/wiki>.
 
