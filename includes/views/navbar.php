@@ -20,10 +20,10 @@
             </ul>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://discord.gg/ru5gCBz">Discord</a>
+                    <a class="nav-link" href="https://summerhoax.com/discord">Discord</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/SummerHoax/summerhoax.github.io">GitHub</a>
+                    <a class="nav-link" href="https://github.com/markd69/summerhoax.com">GitHub</a>
                 </li>
             </ul>
         </div>
