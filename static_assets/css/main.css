@@ -8,6 +8,9 @@ a:focus,
 a:hover {
     color: #fff;
 }
+a {
+    color: crimson;
+}
 
 /*
  * Base structure
