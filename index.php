@@ -238,7 +238,53 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost.">
+ 
+			<li data-placement="left" data-toggle="tooltip" title="Moved to https://forums.summerhoax.com">
+                            <a href="https://forums.summerhoax.com">Looking for the listings? Click here</a>
+                        </li>  
+			    
+                    </ul>
+                    <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    <h5>Frozen Winter Hoaxes&trade;</h5>
+                    <p class="text-muted">Certified Summer Hoaxes&trade; that no longer exist.</p>
+                    <hr>
+                    <ul>
+                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
+                            <a href="http://lightfordac.com">LightFordAC.com</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
+                            <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
+                        </li>			    	
+                        <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
+                            <a href="https://enteron.world">Enteron.world</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="A failure, a scam, a meme that had long overstayed its welcome - Fortress Host was all of these things. Favorite practices included: exploiting free hardware, promising false promises, and offering 'alternative' refunds.">
+                            <a href="https://fortress.host">Fortress.host</a>
+                        </li>
+		        <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
+                            <a href="https://webrexhosting.com/">WebrexHosting.com</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="A well-known scam, CubikNode transformed from a once thriving host to a 2-star 'poor' rating on trustpilot because of well over a dozen reports of scamming. The CEO has vanished and has left his clients with nothing.">
+                            <a href="https://cubiknode.com">Cubiknode.com</a>
+                        </li>			    
+			<li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
+                            <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
+                        </li>		
+                        <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
+                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.pro</a>
+                        </li>	
+			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
+                            <a href="https://eportal.icxrealty.com">ICXRealty</a>
+                        </li>
+			<li data-placement="left" data-toggle="tooltip" title="Ghosted all clients and continued to charge them after the billing panel, nodes, and site went down. Completely ignoring all questions by clients and only responds to chargeback requests. Was originally good, however once the Director of Operations left the team everything fell apart.">
+                            <a href="https://discord.gg/nTjmYS9">CloudEx Hosting</a>
+			</li>
+			                        <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost.">
                             <a href="https://purecpu.com">PureCPU.com</a>
                         </li>
                          <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
@@ -312,47 +358,6 @@
 		        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
                             <a href="https://server642.com">Server642.com</a>
                         </li>	
-                    </ul>
-                    <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
-                </div>
-            </div>
-            <br>
-            <div class="card">
-                <div class="card-body">
-                    <h5>Frozen Winter Hoaxes&trade;</h5>
-                    <p class="text-muted">Certified Summer Hoaxes&trade; that no longer exist.</p>
-                    <hr>
-                    <ul>
-                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
-                            <a href="http://lightfordac.com">LightFordAC.com</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
-                            <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
-                        </li>			    	
-                        <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
-                            <a href="https://enteron.world">Enteron.world</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="A failure, a scam, a meme that had long overstayed its welcome - Fortress Host was all of these things. Favorite practices included: exploiting free hardware, promising false promises, and offering 'alternative' refunds.">
-                            <a href="https://fortress.host">Fortress.host</a>
-                        </li>
-		        <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
-                            <a href="https://webrexhosting.com/">WebrexHosting.com</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="A well-known scam, CubikNode transformed from a once thriving host to a 2-star 'poor' rating on trustpilot because of well over a dozen reports of scamming. The CEO has vanished and has left his clients with nothing.">
-                            <a href="https://cubiknode.com">Cubiknode.com</a>
-                        </li>			    
-			<li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
-                            <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
-                        </li>		
-                        <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
-                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.pro</a>
-                        </li>	
-			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
-                            <a href="https://eportal.icxrealty.com">ICXRealty</a>
-                        </li>
-			<li data-placement="left" data-toggle="tooltip" title="Ghosted all clients and continued to charge them after the billing panel, nodes, and site went down. Completely ignoring all questions by clients and only responds to chargeback requests. Was originally good, however once the Director of Operations left the team everything fell apart.">
-                            <a href="https://discord.gg/nTjmYS9">CloudEx Hosting</a>
-			</li>
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
