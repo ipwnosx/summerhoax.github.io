@@ -14,13 +14,17 @@
                         Vault
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="/vault/">View All</a>
+                        <a class="dropdown-item" href="https://forums.summerhoax.com/">View All (NEW)</a>
+                        <a class="dropdown-item" href="/vault/">View All (OLD)</a>
                     </div>
                 </li>
             </ul>
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="https://summerhoax.com/discord">Discord</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://forums.summerhoax.com">Forums</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://github.com/markd69/summerhoax.com">GitHub</a>
