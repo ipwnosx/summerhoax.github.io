@@ -154,7 +154,7 @@
                         cloud on.</p>
                     <p>Lie that you own the hardware. It is a good marketing strategy after all. If your clients are
                         somehow smart enough
-                        to check the IP, just tell them you are collocating. Nothing can go wrong from there
+                        to check the IP, just tell them you are colocating. Nothing can go wrong from there
                         &#x1F618;
                     </p>
                     <br>
